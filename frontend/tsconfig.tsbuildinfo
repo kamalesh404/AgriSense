@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/client.ts","./src/components/icons.tsx","./src/components/layout.tsx","./src/pages/cropinfo.tsx","./src/pages/dashboard.tsx","./src/pages/diseasedetection.tsx","./src/pages/diseaseencyclopedia.tsx","./src/pages/smartrecommendations.tsx","./src/pages/weatheradvice.tsx","./src/pages/weatherdashboard.tsx"],"version":"5.9.3"}
